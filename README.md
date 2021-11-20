@@ -2,7 +2,7 @@
 I used:
 
 - links <a href=""></a>
-- images <img src="">
+- images <img src="" alt="Empty link">
 - ordered lists <ol></ol>
 - unordered lists <ul></ul> 
 - list elements <li></li>
